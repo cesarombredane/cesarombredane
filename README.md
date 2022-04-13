@@ -5,10 +5,10 @@
 </p>
 
 ## About me
-- :school: I graduated from [Paris-Saclay University](https://www.universite-paris-saclay.fr/) majoring in `Computer Science`
-- :school: I’m currently studying `Software Engineering` at [EFREI Paris](https://www.efrei.fr/)
-- :office: I currently work as a `FullStack Developper` at [Pulsonic](https://www.pulsonic.com/fr/accueil/)
-- :page_facing_up: this is [my resume](https://drive.google.com/file/d/161xmXyprO43OORGwssL3j-9uUYPNPZW8/view?usp=sharing)
+- :school: I graduated from <a href="https://www.universite-paris-saclay.fr/" target="_blank">Paris-Saclay University</a> majoring in `Computer Science`
+- :school: I’m currently studying `Software Engineering` at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a>
+- :office: I currently work as a `FullStack Developper` at <a href="https://www.pulsonic.com/fr/accueil/" target="_blank">Pulsonic</a>
+- :page_facing_up: this is <a href="https://drive.google.com/file/d/161xmXyprO43OORGwssL3j-9uUYPNPZW8/view?usp=sharing" target="_blank">my resume</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
