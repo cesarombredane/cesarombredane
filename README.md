@@ -12,11 +12,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
+  &emsp;
+  <a href="mailto:combredane@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &emsp; 
-	<a href="mailto:combredane@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	&emsp; 
   <a href="https://github.com/cesarombredane"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-	&emsp; 
+  &emsp; 
   <a href="https://www.linkedin.com/in/c%C3%A9sar-ombredane-b73bbb1b0/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &emsp; 
   <a href="https://twitter.com/16ar_o"><img src="https://img.shields.io/badge/twitter-%aa?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"/></a>
