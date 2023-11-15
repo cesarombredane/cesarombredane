@@ -6,7 +6,7 @@
 
 ## About me
 - :school: I graduated from <a href="https://www.universite-paris-saclay.fr/" target="_blank">Paris-Saclay University</a> majoring in `Computer Science`
-- :school: I’m currently studying `Software Engineering` at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a>
+- :school: I’m currently studying `Data Engineering` at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a>
 - :office: I currently work as a `FullStack Developper` at <a href="https://www.pulsonic.com/fr/accueil/" target="_blank">Pulsonic</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -17,4 +17,4 @@
   <a href="https://twitter.com/16ar_o"><img src="https://img.shields.io/badge/twitter-%aa?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"/></a>
 </p>
 
-Last Edited on: 02/02/2023
+Last Edited on: 15/11/2023
